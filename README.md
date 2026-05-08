@@ -41,16 +41,20 @@
 
 <div align="center">
   <h3> 📊 My GitHub Stats 📊 </h3>
-  
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=Le-Phu-Family&show_icons=true&theme=transparent&hide_border=true&title_color=38BDF8&icon_color=38BDF8&text_color=777777" height="180" alt="stats graph" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Le-Phu-Family&layout=compact&theme=transparent&hide_border=true&title_color=38BDF8&text_color=777777" height="180" alt="languages graph" />
-  </p>
-  
-  <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Le-Phu-Family&theme=transparent&hide_border=true&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=777777&dates=777777&currStreakNum=777777&sideNums=777777" alt="streak graph" />
-  </p>
 </div>
+
+<p align="center">
+  <a href="https://github.com/Le-Phu-Family">
+    <img src="https://github-readme-stats.vercel.app/api?username=Le-Phu-Family&show_icons=true&theme=transparent&hide_border=true&title_color=38BDF8&icon_color=38BDF8&text_color=777777&v=1" alt="Le-Phu-Family Stats" />
+  </a>
+  <a href="https://github.com/Le-Phu-Family">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Le-Phu-Family&layout=compact&theme=transparent&hide_border=true&title_color=38BDF8&text_color=777777&v=1" alt="Le-Phu-Family Top Langs" />
+  </a>
+</p>
+  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Le-Phu-Family&theme=transparent&hide_border=true&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=777777&dates=777777&currStreakNum=777777&sideNums=777777" alt="streak graph" />
+</p>
 
 <br/>
 
